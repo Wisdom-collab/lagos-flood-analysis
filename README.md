@@ -45,6 +45,8 @@ The analysis combines **data cleaning (Google Sheets)** and **interactive visual
 ### Data Cleaning
 - Removed duplicates (Date + Location)
 - Standardized date formats
+<img width="1087" height="493" alt="Flood Risk Dataset" src="https://github.com/user-attachments/assets/c70af7bc-557c-462d-a760-c0328fc6ea4e" />
+
 
 ### Handling Missing Values
 - `Precitype`:
